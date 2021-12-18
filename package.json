@@ -1,5 +1,5 @@
 {
-  "name": "visx-barchart-stacked",
+  "name": "visx-areachart",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +8,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@visx/axis": "^2.4.0",
+    "@visx/event": "^2.1.2",
+    "@visx/gradient": "^2.1.0",
+    "@visx/grid": "^2.4.0",
+    "@visx/group": "^2.1.0",
+    "@visx/responsive": "^2.4.1",
+    "@visx/scale": "^2.2.2",
+    "@visx/shape": "^2.4.0",
+    "@visx/tooltip": "^2.2.2",
+    "framer-motion": "^4.1.17",
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2"
