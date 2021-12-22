@@ -1,6 +1,7 @@
 import { ChakraProvider, CSSReset } from "@chakra-ui/react";
 import Head from "next/head";
 
+
 const GlobalStyle = ({ children }) => {
   return (
     <>

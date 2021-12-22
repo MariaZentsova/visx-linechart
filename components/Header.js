@@ -6,7 +6,6 @@ const Header = () => {
             pos="fixed"
             as="header"
             top="0"
-            zIndex="4"
             bg='#242730'
             left="0"
             right="0"
@@ -16,7 +15,7 @@ const Header = () => {
         >
             <Box width="full" mx="auto" px={6} pr={[1, 6]} height="100%" >
                 <Flex size="100%" p={[0, 3]} pl={[0, 4]} align="center" justify="space-between">
-                    <Box as="a" d="block" href="/" aria-label="Sustinero - green tech news">
+                    <Box as="a" d="block" href="/" aria-label="VisX Area Chart">
                         <Heading color="gray.100" as="h4" size="md">VizX Area Chart</Heading>
                     </Box>
                 </Flex>

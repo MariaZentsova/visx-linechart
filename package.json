@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.7.3",
@@ -13,6 +12,7 @@
     "@emotion/styled": "^11.6.0",
     "@visx/axis": "^2.4.0",
     "@visx/event": "^2.1.2",
+    "@visx/glyph": "^2.1.2",
     "@visx/gradient": "^2.1.0",
     "@visx/grid": "^2.4.0",
     "@visx/group": "^2.1.0",
